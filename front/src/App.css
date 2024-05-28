@@ -40,3 +40,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+body > footer {
+  display: table-row;
+}
+
+.page{
+  width:75%;
+  background-color:red;
+  border-radius:10px;
+}
+
+

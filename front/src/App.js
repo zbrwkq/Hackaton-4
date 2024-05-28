@@ -11,14 +11,17 @@ const App = () => {
   return (
     <Router>
       <div>
-        <Header />
-        <Routes>
-          <Route path="/" element={<Home />} />
-          <Route path="/fact" element={<Fact />} />
-          <Route path="/data" element={<Data />} />
-          <Route path="/analyse" element={<Analyse />} />
-        </Routes>
-        <Footer />
+        <Header/>
+        <div style={{display:'flex', justifyContent:'center'}}>
+          <Routes >
+            <Route path="/" element={<Home />} style={{display:'flex', justifyContent:'center', }} />
+            <Route path="/fact" element={<Fact />} style={{display:'flex', justifyContent:'center', }} />
+            <Route path="/data" element={<Data />} style={{display:'flex', justifyContent:'center', }} />
+            <Route path="/analyse" element={<Analyse />} style={{display:'flex', justifyContent:'center', }} />
+          </Routes>
+        </div>
+        <Footer/>
+        
       </div>
     </Router>
   );
