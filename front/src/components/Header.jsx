@@ -10,10 +10,10 @@ const Header = () => {
           <Link to="/" className="font-semibold text-xl">
             <img src="./image/Olympic_rings_without_rims.png" alt='olympic logo' style={{ height: 80,  width: "auto"}}/>
           </Link>
-          <ul className="flex space-x-4" style={{ display: 'flex', gap: "90px",color : "#4A484B", alignItems:'center', fontSize: 40, alignSelf: 'center',}}>
-            <li><Link to="/data" className="hover:underline">Data</Link></li>
-            <li><Link to="/analyse" className="hover:underline">Analyse</Link></li>
-            <li><Link to="/fact" className="hover:underline">Fact</Link></li>
+          <ul className="flex space-x-4" style={{ display: 'flex', gap: "90px",color : "#4A484B", alignItems:'center', fontSize: 30, alignSelf: 'center',fontFamily:'N27-Regular'}}>
+            <li><Link to="/data">Data</Link></li>
+            <li><Link to="/analyse">Analyse</Link></li>
+            <li><Link to="/fact">Fact</Link></li>
           </ul>
         </div>
       </nav>
