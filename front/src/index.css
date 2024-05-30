@@ -12,3 +12,7 @@
     font-family: "Mars_Regular-Trial";
     src: url("./fonts/Mars/MarsCondensedWeb-Regular-Trial.woff2") format("woff2");
 }
+
+.buttonComponent{
+    background-color:'red';
+}

@@ -12,6 +12,7 @@ const Header = () => {
           </Link>
           <ul className="flex space-x-4" style={{ display: 'flex', gap: "90px",color : "#4A484B", alignItems:'center', fontSize: 30, alignSelf: 'center',fontFamily:'N27-Regular'}}>
             <li><Link to="/data">Data</Link></li>
+            <li><Link to="/visualisation">Visualisation</Link></li>
             <li><Link to="/analyse">Analyse</Link></li>
             <li><Link to="/fact">Fact</Link></li>
           </ul>

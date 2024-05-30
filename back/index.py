@@ -20,5 +20,12 @@ def index():
         rows = [dict(row) for row in result.mappings()]
     return jsonify(rows)
 
+@app.route('/medalsCountry')
+def dataResult():
+    with engine.connect() as connection:
+        result = connection.execute(text('SELECT * FROM Country_historical_medals'))  # Limiter les résultats
+        rows = [dict(row) for row in result.mappings()]
+    return jsonify(rows)
+
 if __name__ == '__main__':
     app.run(debug=True)
