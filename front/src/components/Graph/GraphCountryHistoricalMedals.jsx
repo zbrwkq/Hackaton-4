@@ -14,14 +14,14 @@ import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 
-
+import API_URL from '../../config.js';
 import '../../App.css';
 
-export default function Graph({dataKeyY,dataKeyX,labelX,labelY,dataset}) {
+export default function GraphCountryHistoricalMedals({dataKeyY,dataKeyX,labelX,labelY,dataset}) {
     //,url
-    const [tickPlacement, setTickPlacement] = React.useState('middle');
-    const [tickLabelPlacement, setTickLabelPlacement] = React.useState('middle');
-    const [data, setData] = React.useState([]);
+    const [tickPlacement, setTickPlacement] = useState('middle');
+    const [tickLabelPlacement, setTickLabelPlacement] = useState('middle');
+    const [data, setData] = useState([]);
 
     console.log(dataset);
   
@@ -39,6 +39,32 @@ export default function Graph({dataKeyY,dataKeyX,labelX,labelY,dataset}) {
         },
       },
     };
+
+
+    React.useEffect(() => {
+      axios.get(`${API_URL+'/countries'}`)
+        .then(response => {
+          setApiDataCountryHistoricalMedals(response.data);
+          console.log('response ',response.data)
+        })
+        .catch(error => {
+          console.error('Error fetching data:', error);
+        });
+
+    },[])
+    
+
+
+    const dataSetCountryHistoricalMedals = apiDataCountryHistoricalMedals.map(item => ({
+      id:item.id,
+      Year:item.Year,
+      Season:item.Season,
+      Nation:item.Nation,
+      Gold:item.Gold,
+      Silver:item.Silver,
+      Bronze:item.Bronze,
+      Medals:item.Medals
+    }));
     
   
     return (

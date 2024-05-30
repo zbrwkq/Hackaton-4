@@ -14,7 +14,7 @@ import MenuItem from '@mui/material/MenuItem';
 import FormControl from '@mui/material/FormControl';
 import Select from '@mui/material/Select';
 
-import Graph from '../components/Graph/Graph.jsx';
+import Graph from '../components/Graph/GraphMedals.jsx';
 
 import '../App.css';
 import API_URL from '../config.js';
@@ -45,6 +45,8 @@ export default function Home() {
     participations: item.games_participations,
     link: item.athlete_url,
   }));
+
+  console.log(dataset);
 
 
   return (

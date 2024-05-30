@@ -1,7 +1,8 @@
-import React, {useState} from 'react';
+import React, {useState, useEffect} from 'react';
 import axios from 'axios';
 
 import TableData from '../components/table/TableData';
+import Graph from '../components/Graph/GraphMedals.jsx';
 
 import '../App.css';
 import API_URL from '../config.js';
@@ -9,7 +10,7 @@ import API_URL from '../config.js';
 import CircularProgress from '@mui/material/CircularProgress';
 
 
-export default function Home() {
+export default function Visualisation() {
 
 
   return (
@@ -19,8 +20,11 @@ export default function Home() {
       
         <div style={{display:'flex', alignItems:'center' , flexDirection:'column',gap:20,width:"80%", paddingTop:30,paddingBottom:30}}>
           <h1>Visualisation</h1>
-          <TableData/>
-        
+          {/* <TableData/> */}
+          
+          <Graph/>
+          
+
         </div>
         
         {/* <Box sx={{ display: 'flex' }}>
