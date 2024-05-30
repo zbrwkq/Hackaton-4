@@ -1,8 +1,8 @@
 import React, {useState, useEffect} from 'react';
 import axios from 'axios';
 
-import TableData from '../components/table/TableData';
-import Graph from '../components/Graph/GraphMedals.jsx';
+import TableDataMedal from '../components/table/TableDataMedal.jsx';
+import GraphCountryHistoricalMedals from '../components/Graph/GraphCountryHistoricalMedals.jsx';
 
 import '../App.css';
 import API_URL from '../config.js';
@@ -22,8 +22,8 @@ export default function Visualisation() {
           <h1>Visualisation</h1>
           {/* <TableData/> */}
           
-          <Graph/>
-          
+          <GraphCountryHistoricalMedals />
+          <TableDataMedal/>
 
         </div>
         
