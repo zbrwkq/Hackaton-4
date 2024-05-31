@@ -130,7 +130,7 @@ export default function GraphCountryHistoricalMedals() {
   
 
   return (
-    <div style={{ margin: '50px', width: '95%', backgroundColor: '#D9D9D9', padding: '70px', borderRadius: '10px' }}>
+    <div style={{ margin: '50px', width: '80%', backgroundColor: '#D9D9D9', padding: '70px', borderRadius: '10px' }}>
       {data.length > 0 ? (
         <>
           <div style={{ display: 'flex', justifyContent: 'space-between', gap: "200px" }}>
