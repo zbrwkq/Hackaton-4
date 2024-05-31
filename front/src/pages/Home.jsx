@@ -75,6 +75,9 @@ export default function Home() {
       });
   }, []);
 
+
+  console.log(data);
+
   const dataset = data.map(item => ({
     name: item.athlete_full_name,
     medals: item.athlete_medals,
