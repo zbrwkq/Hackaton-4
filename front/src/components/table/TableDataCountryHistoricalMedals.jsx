@@ -88,13 +88,13 @@ const TableDataCountryHistoricalMedals = () => {
           <Table>
             <TableHead>
               <TableRow>
-                <TableCell><b>Year</b></TableCell>
-                <TableCell><b>Season</b></TableCell>
-                <TableCell><b>Nation</b></TableCell>
-                <TableCell><b>Gold</b></TableCell>
-                <TableCell><b>Silver</b></TableCell>
+                <TableCell><b>Année</b></TableCell>
+                <TableCell><b>Saison</b></TableCell>
+                <TableCell><b>Pays</b></TableCell>
+                <TableCell><b>Or</b></TableCell>
+                <TableCell><b>Argent</b></TableCell>
                 <TableCell><b>Bronze</b></TableCell>
-                <TableCell><b>Medals</b></TableCell>
+                <TableCell><b>Médailles</b></TableCell>
               </TableRow>
             </TableHead>
             <TableBody>

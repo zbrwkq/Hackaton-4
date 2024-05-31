@@ -48,16 +48,15 @@ const TableData = () => {
             <TableRow>
               
               {/* <TableCell>Numéro</TableCell> */}
-              <TableCell><b>athlete_full_name</b></TableCell>
-              <TableCell><b>athlete_url</b></TableCell>
-              <TableCell><b>country_name</b></TableCell>
-              <TableCell><b>discipline_title</b></TableCell>
-              <TableCell><b>event_gender</b></TableCell>
-              <TableCell><b>event_title</b></TableCell>
-              <TableCell><b>medal_type</b></TableCell>
-              <TableCell><b>participant_title</b></TableCell>
-              <TableCell><b>participant_type</b></TableCell>
-              <TableCell><b>slug_game</b></TableCell>
+              <TableCell><b>Nom</b></TableCell>
+              <TableCell><b>Pays</b></TableCell>
+              <TableCell><b>Discipline</b></TableCell>
+              <TableCell><b>Genre de l'évèvement</b></TableCell>
+              <TableCell><b>Evènement</b></TableCell>
+              <TableCell><b>Médaille obtenue</b></TableCell>
+              {/* <TableCell><b>participant_title</b></TableCell> */}
+              <TableCell><b>Individuel/Equipe</b></TableCell>
+              <TableCell><b>Jeux olympiques</b></TableCell>
 
             </TableRow>
           </TableHead>
@@ -65,14 +64,13 @@ const TableData = () => {
             {medals.map((medal, index) => (
               <TableRow key={index}>
                 {/* <TableCell>{medal.id}</TableCell> */}
-                <TableCell>{medal.athlete_full_name}</TableCell>
-                <TableCell>{medal.athlete_url}</TableCell>
+                <TableCell><a href={medal.athlete_url}>{medal.athlete_full_name}</a></TableCell>
                 <TableCell>{medal.country_name}</TableCell>
                 <TableCell>{medal.discipline_title}</TableCell>
                 <TableCell>{medal.event_gender}</TableCell>
                 <TableCell>{medal.event_title}</TableCell>
                 <TableCell>{medal.medal_type}</TableCell>
-                <TableCell>{medal.participant_title}</TableCell>
+                {/* <TableCell>{medal.participant_title}</TableCell> */}
                 <TableCell>{medal.participant_type}</TableCell>
                 <TableCell>{medal.slug_game}</TableCell>
               </TableRow>

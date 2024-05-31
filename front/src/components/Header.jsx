@@ -33,9 +33,9 @@ const Header = () => {
                 <Link to="/visualisation/medalCountry">Médaille par pays</Link>
               </div>
             </li>
-            <li><Link to="/analyse">Analyse</Link></li>
+            <li><Link to="/prediction">Prediction</Link></li>
             <li><Link to="/questions">Frequently asked questions</Link></li>
-            <li><Link to="/fact">Fact</Link></li>
+            <li><Link to="/scraping">Scraping</Link></li>
           </ul>
         </div>
       </nav>
