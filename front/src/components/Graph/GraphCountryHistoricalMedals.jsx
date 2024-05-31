@@ -227,7 +227,7 @@ export default function GraphCountryHistoricalMedals() {
           </div>
         </>
       ) : (
-        <Box sx={{ display: 'flex' }}>
+        <Box sx={{ display: 'flex', justifyContent:'center', }}>
           <CircularProgress />
         </Box>
       )}
