@@ -20,11 +20,10 @@ import CircularProgress from '@mui/material/CircularProgress';
 import API_URL from '../../config.js';
 import '../../App.css';
 
-export default function GraphMedals() {
+export default function GraphPrediction() {
   const [tickPlacement, setTickPlacement] = React.useState('middle');
   const [tickLabelPlacement, setTickLabelPlacement] = React.useState('middle');
   const [apiDataCountryHistoricalMedals, setApiDataCountryHistoricalMedals] = React.useState([]);
-
   const [selectedCondition, setSelectedCondition] = React.useState('Medals');
 
   // const chartSetting = {
@@ -46,40 +45,33 @@ export default function GraphMedals() {
   const chartSetting = {
     xAxis: [
       {
-        label: 'Gold',
-        dataKey: 'Gold' 
+        label: 'Prédiction',
       },
     ],
-    series: [{ dataKey: 'Gold', label: 'Gold' }],
     height: 600,
-    width:1500
+    width:1500,
+    
+    
   }
 
-  React.useEffect(() => {
-    axios.get(`${API_URL + '/countries'}`)
-      .then(response => {
-        setApiDataCountryHistoricalMedals(response.data);
-        console.log('response ', response.data);
-      })
-      .catch(error => {
-        console.error('Error fetching data:', error);
-      });
-  }, []);
+  const [predictions] = React.useState([{"country_name": "France","prediction": 29.083396911621094},{"country_name": "USA","prediction": 96.91452026367188},{"country_name": "China","prediction": 89.28961944580078}])
   
 
   return (
     <div style={{ margin: '50px', width: '90%', backgroundColor: '#D9D9D9', padding: '70px', borderRadius: '10px' }}>
-      {apiDataCountryHistoricalMedals.length > 0 ? (
+      {predictions.length > 0 ? (
         <>
+          <h1><b>Deep learning (réseaux de neurone)</b></h1>
+          <p>Prédiction du pourcentage de chance de gagné les Jeux Olympiques</p>
           <div style={{ display: 'flex', justifyContent: 'space-between', }}>
             <BarChart
               // xAxis={[
               //   { dataKey: 'Nation', tickPlacement, tickLabelPlacement, label: 'Nation' },
               // ]}
 
-              dataset={apiDataCountryHistoricalMedals.slice(0, 10)}
-              yAxis={[{ scaleType: 'band', dataKey: 'Nation' }]}
-              series={[{ dataKey: 'seoul', label: 'Seoul rainfall' }]}
+              dataset={predictions}
+              yAxis={[{ scaleType: 'band', dataKey: 'country_name' }]}
+              series= {[{ dataKey: 'prediction', label: 'prediction' }]}
               layout="horizontal"
               {...chartSetting}
             />

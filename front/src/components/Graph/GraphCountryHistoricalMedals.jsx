@@ -58,7 +58,6 @@ export default function GraphCountryHistoricalMedals() {
     axios.get(`${API_URL + '/countries'}`)
       .then(response => {
         setApiDataCountryHistoricalMedals(response.data);
-        console.log('response ', response.data);
       })
       .catch(error => {
         console.error('Error fetching data:', error);
@@ -118,8 +117,11 @@ export default function GraphCountryHistoricalMedals() {
     setSortOrder(sortOrder === 'asc' ? 'desc' : 'asc');
   };
 
+  // Utilisez cette fonction pour calculer le nombre cumulé des médailles lorsque l'année est définie sur "All"
   const filteredData = sortedData.filter(item => 
-    (selectedYear === 'ALL' || item.Year === selectedYear) &&
+    ((selectedYear === 'ALL' && selectedNation !== 'ALL') ? 
+      (item.Nation === selectedNation && item.Year !== years[0]) : 
+      (selectedYear === 'ALL' || item.Year === selectedYear)) &&
     (selectedNation === 'ALL' || item.Nation === selectedNation)
   );
 
@@ -127,7 +129,23 @@ export default function GraphCountryHistoricalMedals() {
   const handleNbMaxChange = (value) => {
     setSelectedNumberMax(value);
   }
-  
+
+  const getCumulativeMedals = (data, selectedCondition, selectedNation, selectedYear) => {
+    let cumulativeMedals = 0;
+    data.forEach(item => {
+      if ((selectedNation === 'ALL' || item.Nation === selectedNation) && item.Year < selectedYear) {
+        cumulativeMedals += item[selectedCondition];
+      }
+    });
+    return cumulativeMedals;
+  };
+
+  const cumulativeMedals = getCumulativeMedals(sortedData, selectedCondition, selectedNation, years[0]);
+
+  const chartData = (selectedYear === 'ALL') ? 
+  [{ Nation: 'Cumulative', [selectedCondition]: cumulativeMedals }] : 
+  filteredData.slice(0, selectedNumberMax);
+
 
   return (
     <div style={{ margin: '50px', width: '80%', backgroundColor: '#D9D9D9', padding: '70px', borderRadius: '10px' }}>
@@ -142,7 +160,7 @@ export default function GraphCountryHistoricalMedals() {
             </h3>
           </div>
           <BarChart
-            dataset={filteredData.slice(0, selectedNumberMax)}
+            dataset={chartData}
             xAxis={[
               { scaleType: 'band', dataKey: 'Nation', tickPlacement, tickLabelPlacement, label: 'Nation' },
             ]}

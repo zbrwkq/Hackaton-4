@@ -12,6 +12,8 @@ import CircularProgress from '@mui/material/CircularProgress';
 
 export default function Visualisation() {
 
+  
+
 
   return (
     <div style={{ display: 'flex', justifyContent: 'center', alignItems: 'center', width: '80%' , flexDirection:'column', backgroundColor:'#E4E4E4', marginTop:'1%',marginBottom:'1%', borderRadius:'10px'}}>

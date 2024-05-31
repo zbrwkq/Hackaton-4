@@ -35,7 +35,7 @@ const Header = () => {
             </li>
             <li><Link to="/prediction">Prediction</Link></li>
             <li><Link to="/questions">Frequently asked questions</Link></li>
-            <li><Link to="/fact">Fact</Link></li>
+            <li><Link to="/scraping">Scraping</Link></li>
           </ul>
         </div>
       </nav>
