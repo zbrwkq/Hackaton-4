@@ -27,6 +27,7 @@ const Fact = () => {
                GDP_per_capita_2020_Dollars_Int_Dollars_PPP	= {gdpData[selectedIdCountry].GDP_per_capita_2020_Dollars_Int_Dollars_PPP}
                GDP_per_capita_2020_Dollars_Int_Dollars_Rank4	= {gdpData[selectedIdCountry].GDP_per_capita_2020_Dollars_Int_Dollars_Rank4}
                GDP_Growth_2020	= {gdpData[selectedIdCountry].GDP_Growth_2020}
+               GDP_Growth_Rank5 = {gdpData[selectedIdCountry].GDP_Growth_Rank5}
             />
             
 

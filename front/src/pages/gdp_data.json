@@ -10,7 +10,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,390",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 174,
         "GDP_Growth_2020": -5.0,
-        "GDP_Growth_%_Rank5": 109
+        "GDP_Growth_Rank5": 109
     },
     {
         "Country_Economy": "Albania",
@@ -23,7 +23,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "14,218",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 90,
         "GDP_Growth_2020": -3.5,
-        "GDP_Growth_%_Rank5": 83
+        "GDP_Growth_Rank5": 83
     },
     {
         "Country_Economy": "Algeria",
@@ -36,7 +36,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "11,112",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 109,
         "GDP_Growth_2020": -5.992,
-        "GDP_Growth_%_Rank5": 124
+        "GDP_Growth_Rank5": 124
     },
     {
         "Country_Economy": "Angola",
@@ -49,7 +49,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "6,932",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 127,
         "GDP_Growth_2020": -3.975,
-        "GDP_Growth_%_Rank5": 94
+        "GDP_Growth_Rank5": 94
     },
     {
         "Country_Economy": "Antigua and Barbuda",
@@ -62,7 +62,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "18,618",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 73,
         "GDP_Growth_2020": -17.273,
-        "GDP_Growth_%_Rank5": 183
+        "GDP_Growth_Rank5": 183
     },
     {
         "Country_Economy": "Argentina",
@@ -75,7 +75,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "20,751",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 64,
         "GDP_Growth_2020": -9.956,
-        "GDP_Growth_%_Rank5": 167
+        "GDP_Growth_Rank5": 167
     },
     {
         "Country_Economy": "Armenia",
@@ -88,7 +88,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "13,261",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 93,
         "GDP_Growth_2020": -7.571,
-        "GDP_Growth_%_Rank5": 145
+        "GDP_Growth_Rank5": 145
     },
     {
         "Country_Economy": "Aruba",
@@ -101,7 +101,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "29,090",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 51,
         "GDP_Growth_2020": -25.457,
-        "GDP_Growth_%_Rank5": 190
+        "GDP_Growth_Rank5": 190
     },
     {
         "Country_Economy": "Australia",
@@ -114,7 +114,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "51,680",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 20,
         "GDP_Growth_2020": -2.438,
-        "GDP_Growth_%_Rank5": 65
+        "GDP_Growth_Rank5": 65
     },
     {
         "Country_Economy": "Austria",
@@ -127,7 +127,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "55,218",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 17,
         "GDP_Growth_2020": -6.59,
-        "GDP_Growth_%_Rank5": 133
+        "GDP_Growth_Rank5": 133
     },
     {
         "Country_Economy": "Azerbaijan",
@@ -140,7 +140,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "14,431",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 87,
         "GDP_Growth_2020": -4.29,
-        "GDP_Growth_%_Rank5": 100
+        "GDP_Growth_Rank5": 100
     },
     {
         "Country_Economy": "Bahrain",
@@ -153,7 +153,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "48,766",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 23,
         "GDP_Growth_2020": -5.395,
-        "GDP_Growth_%_Rank5": 114
+        "GDP_Growth_Rank5": 114
     },
     {
         "Country_Economy": "Bangladesh",
@@ -166,7 +166,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,307",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 140,
         "GDP_Growth_2020": 3.798,
-        "GDP_Growth_%_Rank5": 5
+        "GDP_Growth_Rank5": 5
     },
     {
         "Country_Economy": "Barbados",
@@ -179,7 +179,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "13,553",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 91,
         "GDP_Growth_2020": -17.6,
-        "GDP_Growth_%_Rank5": 184
+        "GDP_Growth_Rank5": 184
     },
     {
         "Country_Economy": "Belarus",
@@ -192,7 +192,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "20,187",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 66,
         "GDP_Growth_2020": -0.9,
-        "GDP_Growth_%_Rank5": 45
+        "GDP_Growth_Rank5": 45
     },
     {
         "Country_Economy": "Belgium",
@@ -205,7 +205,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "51,096",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 21,
         "GDP_Growth_2020": -6.424,
-        "GDP_Growth_%_Rank5": 130
+        "GDP_Growth_Rank5": 130
     },
     {
         "Country_Economy": "Belize",
@@ -218,7 +218,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "6,046",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 131,
         "GDP_Growth_2020": -14.089,
-        "GDP_Growth_%_Rank5": 179
+        "GDP_Growth_Rank5": 179
     },
     {
         "Country_Economy": "Benin",
@@ -231,7 +231,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,437",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 160,
         "GDP_Growth_2020": 1.997,
-        "GDP_Growth_%_Rank5": 13
+        "GDP_Growth_Rank5": 13
     },
     {
         "Country_Economy": "Bhutan",
@@ -244,7 +244,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "12,060",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 102,
         "GDP_Growth_2020": -0.817,
-        "GDP_Growth_%_Rank5": 41
+        "GDP_Growth_Rank5": 41
     },
     {
         "Country_Economy": "Bolivia",
@@ -257,7 +257,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "8,344",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 122,
         "GDP_Growth_2020": -7.7,
-        "GDP_Growth_%_Rank5": 147
+        "GDP_Growth_Rank5": 147
     },
     {
         "Country_Economy": "Bosnia and Herzegovina",
@@ -270,7 +270,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "15,047",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 83,
         "GDP_Growth_2020": -5.5,
-        "GDP_Growth_%_Rank5": 116
+        "GDP_Growth_Rank5": 116
     },
     {
         "Country_Economy": "Botswana",
@@ -283,7 +283,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "16,893",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 78,
         "GDP_Growth_2020": -8.25,
-        "GDP_Growth_%_Rank5": 158
+        "GDP_Growth_Rank5": 158
     },
     {
         "Country_Economy": "Brazil",
@@ -296,7 +296,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "14,916",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 85,
         "GDP_Growth_2020": -4.059,
-        "GDP_Growth_%_Rank5": 95
+        "GDP_Growth_Rank5": 95
     },
     {
         "Country_Economy": "Brunei Darussalam",
@@ -309,7 +309,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "62,371",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 8,
         "GDP_Growth_2020": 1.203,
-        "GDP_Growth_%_Rank5": 17
+        "GDP_Growth_Rank5": 17
     },
     {
         "Country_Economy": "Bulgaria",
@@ -322,7 +322,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "23,817",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 60,
         "GDP_Growth_2020": -3.844,
-        "GDP_Growth_%_Rank5": 91
+        "GDP_Growth_Rank5": 91
     },
     {
         "Country_Economy": "Burkina Faso",
@@ -335,7 +335,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,262",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 178,
         "GDP_Growth_2020": 0.793,
-        "GDP_Growth_%_Rank5": 22
+        "GDP_Growth_Rank5": 22
     },
     {
         "Country_Economy": "Burundi",
@@ -348,7 +348,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "760",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 194,
         "GDP_Growth_2020": -1.282,
-        "GDP_Growth_%_Rank5": 49
+        "GDP_Growth_Rank5": 49
     },
     {
         "Country_Economy": "Cabo Verde",
@@ -361,7 +361,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "6,424",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 129,
         "GDP_Growth_2020": -14.029,
-        "GDP_Growth_%_Rank5": 178
+        "GDP_Growth_Rank5": 178
     },
     {
         "Country_Economy": "Cambodia",
@@ -374,7 +374,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "4,695",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 148,
         "GDP_Growth_2020": -3.532,
-        "GDP_Growth_%_Rank5": 85
+        "GDP_Growth_Rank5": 85
     },
     {
         "Country_Economy": "Cameroon",
@@ -387,7 +387,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,646",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 157,
         "GDP_Growth_2020": -2.769,
-        "GDP_Growth_%_Rank5": 69
+        "GDP_Growth_Rank5": 69
     },
     {
         "Country_Economy": "Canada",
@@ -400,7 +400,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "48,720",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 24,
         "GDP_Growth_2020": -5.403,
-        "GDP_Growth_%_Rank5": 115
+        "GDP_Growth_Rank5": 115
     },
     {
         "Country_Economy": "Central African Republic",
@@ -413,7 +413,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "979",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 191,
         "GDP_Growth_2020": -0.015,
-        "GDP_Growth_%_Rank5": 29
+        "GDP_Growth_Rank5": 29
     },
     {
         "Country_Economy": "Chad",
@@ -426,7 +426,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "1,611",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 184,
         "GDP_Growth_2020": -0.887,
-        "GDP_Growth_%_Rank5": 43
+        "GDP_Growth_Rank5": 43
     },
     {
         "Country_Economy": "Chile",
@@ -439,7 +439,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "23,366",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 61,
         "GDP_Growth_2020": -5.841,
-        "GDP_Growth_%_Rank5": 122
+        "GDP_Growth_Rank5": 122
     },
     {
         "Country_Economy": "China",
@@ -452,7 +452,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "17,192",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 77,
         "GDP_Growth_2020": 2.27,
-        "GDP_Growth_%_Rank5": 12
+        "GDP_Growth_Rank5": 12
     },
     {
         "Country_Economy": "Colombia",
@@ -465,7 +465,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "14,324",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 88,
         "GDP_Growth_2020": -6.847,
-        "GDP_Growth_%_Rank5": 137
+        "GDP_Growth_Rank5": 137
     },
     {
         "Country_Economy": "Comoros",
@@ -478,7 +478,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,048",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 163,
         "GDP_Growth_2020": -0.503,
-        "GDP_Growth_%_Rank5": 38
+        "GDP_Growth_Rank5": 38
     },
     {
         "Country_Economy": "Costa Rica",
@@ -491,7 +491,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "19,990",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 67,
         "GDP_Growth_2020": -4.796,
-        "GDP_Growth_%_Rank5": 104
+        "GDP_Growth_Rank5": 104
     },
     {
         "Country_Economy": "Croatia",
@@ -504,7 +504,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "27,717",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 54,
         "GDP_Growth_2020": -9.0,
-        "GDP_Growth_%_Rank5": 162
+        "GDP_Growth_Rank5": 162
     },
     {
         "Country_Economy": "Cyprus",
@@ -517,7 +517,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "40,107",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 36,
         "GDP_Growth_2020": -5.106,
-        "GDP_Growth_%_Rank5": 110
+        "GDP_Growth_Rank5": 110
     },
     {
         "Country_Economy": "Czech Republic",
@@ -530,7 +530,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "40,618",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 34,
         "GDP_Growth_2020": -5.556,
-        "GDP_Growth_%_Rank5": 118
+        "GDP_Growth_Rank5": 118
     },
     {
         "Country_Economy": "C\u00f4te d'Ivoire",
@@ -543,7 +543,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,365",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 139,
         "GDP_Growth_2020": 2.277,
-        "GDP_Growth_%_Rank5": 11
+        "GDP_Growth_Rank5": 11
     },
     {
         "Country_Economy": "Democratic Republic of the Congo",
@@ -556,7 +556,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "1,106",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 189,
         "GDP_Growth_2020": -0.064,
-        "GDP_Growth_%_Rank5": 30
+        "GDP_Growth_Rank5": 30
     },
     {
         "Country_Economy": "Denmark",
@@ -569,7 +569,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "58,933",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 10,
         "GDP_Growth_2020": -3.287,
-        "GDP_Growth_%_Rank5": 79
+        "GDP_Growth_Rank5": 79
     },
     {
         "Country_Economy": "Djibouti",
@@ -582,7 +582,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,096",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 145,
         "GDP_Growth_2020": -1.0,
-        "GDP_Growth_%_Rank5": 48
+        "GDP_Growth_Rank5": 48
     },
     {
         "Country_Economy": "Dominica",
@@ -595,7 +595,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "11,073",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 110,
         "GDP_Growth_2020": -10.445,
-        "GDP_Growth_%_Rank5": 170
+        "GDP_Growth_Rank5": 170
     },
     {
         "Country_Economy": "Dominican Republic",
@@ -608,7 +608,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "18,608",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 74,
         "GDP_Growth_2020": -6.731,
-        "GDP_Growth_%_Rank5": 135
+        "GDP_Growth_Rank5": 135
     },
     {
         "Country_Economy": "Ecuador",
@@ -621,7 +621,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "11,009",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 111,
         "GDP_Growth_2020": -7.5,
-        "GDP_Growth_%_Rank5": 143
+        "GDP_Growth_Rank5": 143
     },
     {
         "Country_Economy": "Egypt",
@@ -634,7 +634,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "12,790",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 99,
         "GDP_Growth_2020": 3.57,
-        "GDP_Growth_%_Rank5": 6
+        "GDP_Growth_Rank5": 6
     },
     {
         "Country_Economy": "El Salvador",
@@ -647,7 +647,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "8,422",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 121,
         "GDP_Growth_2020": -8.58,
-        "GDP_Growth_%_Rank5": 159
+        "GDP_Growth_Rank5": 159
     },
     {
         "Country_Economy": "Equatorial Guinea",
@@ -660,7 +660,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "17,788",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 76,
         "GDP_Growth_2020": -5.778,
-        "GDP_Growth_%_Rank5": 121
+        "GDP_Growth_Rank5": 121
     },
     {
         "Country_Economy": "Eritrea",
@@ -673,7 +673,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "1,821",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 182,
         "GDP_Growth_2020": -0.627,
-        "GDP_Growth_%_Rank5": 39
+        "GDP_Growth_Rank5": 39
     },
     {
         "Country_Economy": "Estonia",
@@ -686,7 +686,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "37,745",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 40,
         "GDP_Growth_2020": -2.932,
-        "GDP_Growth_%_Rank5": 72
+        "GDP_Growth_Rank5": 72
     },
     {
         "Country_Economy": "Eswatini",
@@ -699,7 +699,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "8,957",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 119,
         "GDP_Growth_2020": -3.342,
-        "GDP_Growth_%_Rank5": 81
+        "GDP_Growth_Rank5": 81
     },
     {
         "Country_Economy": "Ethiopia",
@@ -712,7 +712,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,908",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 165,
         "GDP_Growth_2020": 6.057,
-        "GDP_Growth_%_Rank5": 2
+        "GDP_Growth_Rank5": 2
     },
     {
         "Country_Economy": "Fiji",
@@ -725,7 +725,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "11,567",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 106,
         "GDP_Growth_2020": -19.0,
-        "GDP_Growth_%_Rank5": 188
+        "GDP_Growth_Rank5": 188
     },
     {
         "Country_Economy": "Finland",
@@ -738,7 +738,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "49,853",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 22,
         "GDP_Growth_2020": -2.893,
-        "GDP_Growth_%_Rank5": 71
+        "GDP_Growth_Rank5": 71
     },
     {
         "Country_Economy": "France",
@@ -751,7 +751,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "46,062",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 26,
         "GDP_Growth_2020": -8.232,
-        "GDP_Growth_%_Rank5": 155
+        "GDP_Growth_Rank5": 155
     },
     {
         "Country_Economy": "Gabon",
@@ -764,7 +764,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "15,970",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 81,
         "GDP_Growth_2020": -1.757,
-        "GDP_Growth_%_Rank5": 54
+        "GDP_Growth_Rank5": 54
     },
     {
         "Country_Economy": "Georgia",
@@ -777,7 +777,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "14,918",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 84,
         "GDP_Growth_2020": -6.1,
-        "GDP_Growth_%_Rank5": 127
+        "GDP_Growth_Rank5": 127
     },
     {
         "Country_Economy": "Germany",
@@ -790,7 +790,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "54,076",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 19,
         "GDP_Growth_2020": -4.903,
-        "GDP_Growth_%_Rank5": 106
+        "GDP_Growth_Rank5": 106
     },
     {
         "Country_Economy": "Ghana",
@@ -803,7 +803,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,693",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 134,
         "GDP_Growth_2020": 0.88,
-        "GDP_Growth_%_Rank5": 20
+        "GDP_Growth_Rank5": 20
     },
     {
         "Country_Economy": "Greece",
@@ -816,7 +816,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "28,748",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 52,
         "GDP_Growth_2020": -8.248,
-        "GDP_Growth_%_Rank5": 157
+        "GDP_Growth_Rank5": 157
     },
     {
         "Country_Economy": "Grenada",
@@ -829,7 +829,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "15,431",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 82,
         "GDP_Growth_2020": -13.464,
-        "GDP_Growth_%_Rank5": 177
+        "GDP_Growth_Rank5": 177
     },
     {
         "Country_Economy": "Guatemala",
@@ -842,7 +842,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "8,293",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 123,
         "GDP_Growth_2020": -1.5,
-        "GDP_Growth_%_Rank5": 52
+        "GDP_Growth_Rank5": 52
     },
     {
         "Country_Economy": "Guinea",
@@ -855,7 +855,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,604",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 169,
         "GDP_Growth_2020": 5.225,
-        "GDP_Growth_%_Rank5": 3
+        "GDP_Growth_Rank5": 3
     },
     {
         "Country_Economy": "Guinea-Bissau",
@@ -868,7 +868,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,348",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 175,
         "GDP_Growth_2020": -2.4,
-        "GDP_Growth_%_Rank5": 64
+        "GDP_Growth_Rank5": 64
     },
     {
         "Country_Economy": "Guyana",
@@ -881,7 +881,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "19,684",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 68,
         "GDP_Growth_2020": 43.384,
-        "GDP_Growth_%_Rank5": 1
+        "GDP_Growth_Rank5": 1
     },
     {
         "Country_Economy": "Haiti",
@@ -894,7 +894,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,916",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 164,
         "GDP_Growth_2020": -3.7,
-        "GDP_Growth_%_Rank5": 89
+        "GDP_Growth_Rank5": 89
     },
     {
         "Country_Economy": "Honduras",
@@ -907,7 +907,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,450",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 137,
         "GDP_Growth_2020": -8.0,
-        "GDP_Growth_%_Rank5": 152
+        "GDP_Growth_Rank5": 152
     },
     {
         "Country_Economy": "Hong Kong SAR",
@@ -920,7 +920,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "59,520",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 9,
         "GDP_Growth_2020": -6.142,
-        "GDP_Growth_%_Rank5": 128
+        "GDP_Growth_Rank5": 128
     },
     {
         "Country_Economy": "Hungary",
@@ -933,7 +933,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "33,030",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 45,
         "GDP_Growth_2020": -4.962,
-        "GDP_Growth_%_Rank5": 107
+        "GDP_Growth_Rank5": 107
     },
     {
         "Country_Economy": "Iceland",
@@ -946,7 +946,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "55,966",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 15,
         "GDP_Growth_2020": -6.649,
-        "GDP_Growth_%_Rank5": 134
+        "GDP_Growth_Rank5": 134
     },
     {
         "Country_Economy": "India",
@@ -959,7 +959,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "6,461",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 128,
         "GDP_Growth_2020": -7.965,
-        "GDP_Growth_%_Rank5": 150
+        "GDP_Growth_Rank5": 150
     },
     {
         "Country_Economy": "Indonesia",
@@ -972,7 +972,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "12,222",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 101,
         "GDP_Growth_2020": -2.07,
-        "GDP_Growth_%_Rank5": 59
+        "GDP_Growth_Rank5": 59
     },
     {
         "Country_Economy": "Iraq",
@@ -985,7 +985,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "10,003",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 115,
         "GDP_Growth_2020": -10.885,
-        "GDP_Growth_%_Rank5": 171
+        "GDP_Growth_Rank5": 171
     },
     {
         "Country_Economy": "Ireland",
@@ -998,7 +998,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "94,392",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 3,
         "GDP_Growth_2020": 2.475,
-        "GDP_Growth_%_Rank5": 10
+        "GDP_Growth_Rank5": 10
     },
     {
         "Country_Economy": "Islamic Republic of Iran",
@@ -1011,7 +1011,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "13,073",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 96,
         "GDP_Growth_2020": 1.516,
-        "GDP_Growth_%_Rank5": 16
+        "GDP_Growth_Rank5": 16
     },
     {
         "Country_Economy": "Israel",
@@ -1024,7 +1024,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "40,547",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 35,
         "GDP_Growth_2020": -2.377,
-        "GDP_Growth_%_Rank5": 63
+        "GDP_Growth_Rank5": 63
     },
     {
         "Country_Economy": "Italy",
@@ -1037,7 +1037,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "40,861",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 33,
         "GDP_Growth_2020": -8.871,
-        "GDP_Growth_%_Rank5": 161
+        "GDP_Growth_Rank5": 161
     },
     {
         "Country_Economy": "Jamaica",
@@ -1050,7 +1050,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "9,975",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 116,
         "GDP_Growth_2020": -10.223,
-        "GDP_Growth_%_Rank5": 168
+        "GDP_Growth_Rank5": 168
     },
     {
         "Country_Economy": "Japan",
@@ -1063,7 +1063,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "42,248",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 30,
         "GDP_Growth_2020": -4.83,
-        "GDP_Growth_%_Rank5": 105
+        "GDP_Growth_Rank5": 105
     },
     {
         "Country_Economy": "Jordan",
@@ -1076,7 +1076,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "10,306",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 113,
         "GDP_Growth_2020": -1.973,
-        "GDP_Growth_%_Rank5": 57
+        "GDP_Growth_Rank5": 57
     },
     {
         "Country_Economy": "Kazakhstan",
@@ -1089,7 +1089,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "26,565",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 57,
         "GDP_Growth_2020": -2.598,
-        "GDP_Growth_%_Rank5": 66
+        "GDP_Growth_Rank5": 66
     },
     {
         "Country_Economy": "Kenya",
@@ -1102,7 +1102,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "4,926",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 147,
         "GDP_Growth_2020": -0.127,
-        "GDP_Growth_%_Rank5": 31
+        "GDP_Growth_Rank5": 31
     },
     {
         "Country_Economy": "Kiribati",
@@ -1115,7 +1115,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,200",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 179,
         "GDP_Growth_2020": -0.476,
-        "GDP_Growth_%_Rank5": 36
+        "GDP_Growth_Rank5": 36
     },
     {
         "Country_Economy": "Korea",
@@ -1128,7 +1128,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "44,621",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 27,
         "GDP_Growth_2020": -0.958,
-        "GDP_Growth_%_Rank5": 46
+        "GDP_Growth_Rank5": 46
     },
     {
         "Country_Economy": "Kosovo",
@@ -1141,7 +1141,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "11,274",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 108,
         "GDP_Growth_2020": -6.0,
-        "GDP_Growth_%_Rank5": 125
+        "GDP_Growth_Rank5": 125
     },
     {
         "Country_Economy": "Kuwait",
@@ -1154,7 +1154,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "41,627",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 32,
         "GDP_Growth_2020": -8.134,
-        "GDP_Growth_%_Rank5": 154
+        "GDP_Growth_Rank5": 154
     },
     {
         "Country_Economy": "Kyrgyz Republic",
@@ -1167,7 +1167,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,036",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 146,
         "GDP_Growth_2020": -7.98,
-        "GDP_Growth_%_Rank5": 151
+        "GDP_Growth_Rank5": 151
     },
     {
         "Country_Economy": "Lao P.D.R.",
@@ -1180,7 +1180,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "8,111",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 124,
         "GDP_Growth_2020": -0.435,
-        "GDP_Growth_%_Rank5": 34
+        "GDP_Growth_Rank5": 34
     },
     {
         "Country_Economy": "Latvia",
@@ -1193,7 +1193,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "31,509",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 47,
         "GDP_Growth_2020": -3.624,
-        "GDP_Growth_%_Rank5": 87
+        "GDP_Growth_Rank5": 87
     },
     {
         "Country_Economy": "Lebanon",
@@ -1206,7 +1206,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "11,564",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 107,
         "GDP_Growth_2020": -25.0,
-        "GDP_Growth_%_Rank5": 189
+        "GDP_Growth_Rank5": 189
     },
     {
         "Country_Economy": "Lesotho",
@@ -1219,7 +1219,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,718",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 167,
         "GDP_Growth_2020": -4.543,
-        "GDP_Growth_%_Rank5": 103
+        "GDP_Growth_Rank5": 103
     },
     {
         "Country_Economy": "Liberia",
@@ -1232,7 +1232,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "1,557",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 186,
         "GDP_Growth_2020": -2.967,
-        "GDP_Growth_%_Rank5": 73
+        "GDP_Growth_Rank5": 73
     },
     {
         "Country_Economy": "Libya",
@@ -1245,7 +1245,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,893",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 132,
         "GDP_Growth_2020": -59.719,
-        "GDP_Growth_%_Rank5": 194
+        "GDP_Growth_Rank5": 194
     },
     {
         "Country_Economy": "Lithuania",
@@ -1258,7 +1258,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "38,824",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 37,
         "GDP_Growth_2020": -0.823,
-        "GDP_Growth_%_Rank5": 42
+        "GDP_Growth_Rank5": 42
     },
     {
         "Country_Economy": "Luxembourg",
@@ -1271,7 +1271,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "118,002",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 1,
         "GDP_Growth_2020": -1.314,
-        "GDP_Growth_%_Rank5": 50
+        "GDP_Growth_Rank5": 50
     },
     {
         "Country_Economy": "Macao SAR",
@@ -1284,7 +1284,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "56,078",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 14,
         "GDP_Growth_2020": -56.306,
-        "GDP_Growth_%_Rank5": 193
+        "GDP_Growth_Rank5": 193
     },
     {
         "Country_Economy": "Madagascar",
@@ -1297,7 +1297,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "1,599",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 185,
         "GDP_Growth_2020": -4.239,
-        "GDP_Growth_%_Rank5": 99
+        "GDP_Growth_Rank5": 99
     },
     {
         "Country_Economy": "Malawi",
@@ -1310,7 +1310,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "993",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 190,
         "GDP_Growth_2020": 0.6,
-        "GDP_Growth_%_Rank5": 26
+        "GDP_Growth_Rank5": 26
     },
     {
         "Country_Economy": "Malaysia",
@@ -1323,7 +1323,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "27,402",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 55,
         "GDP_Growth_2020": -5.588,
-        "GDP_Growth_%_Rank5": 119
+        "GDP_Growth_Rank5": 119
     },
     {
         "Country_Economy": "Maldives",
@@ -1336,7 +1336,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "19,609",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 69,
         "GDP_Growth_2020": -32.243,
-        "GDP_Growth_%_Rank5": 192
+        "GDP_Growth_Rank5": 192
     },
     {
         "Country_Economy": "Mali",
@@ -1349,7 +1349,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,401",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 173,
         "GDP_Growth_2020": -1.983,
-        "GDP_Growth_%_Rank5": 58
+        "GDP_Growth_Rank5": 58
     },
     {
         "Country_Economy": "Malta",
@@ -1362,7 +1362,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "42,856",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 29,
         "GDP_Growth_2020": -7.001,
-        "GDP_Growth_%_Rank5": 139
+        "GDP_Growth_Rank5": 139
     },
     {
         "Country_Economy": "Marshall Islands",
@@ -1375,7 +1375,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,786",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 155,
         "GDP_Growth_2020": -3.3,
-        "GDP_Growth_%_Rank5": 80
+        "GDP_Growth_Rank5": 80
     },
     {
         "Country_Economy": "Mauritania",
@@ -1388,7 +1388,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,834",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 133,
         "GDP_Growth_2020": -2.161,
-        "GDP_Growth_%_Rank5": 61
+        "GDP_Growth_Rank5": 61
     },
     {
         "Country_Economy": "Mauritius",
@@ -1401,7 +1401,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "20,292",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 65,
         "GDP_Growth_2020": -15.8,
-        "GDP_Growth_%_Rank5": 181
+        "GDP_Growth_Rank5": 181
     },
     {
         "Country_Economy": "Mexico",
@@ -1414,7 +1414,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "19,130",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 72,
         "GDP_Growth_2020": -8.239,
-        "GDP_Growth_%_Rank5": 156
+        "GDP_Growth_Rank5": 156
     },
     {
         "Country_Economy": "Micronesia",
@@ -1427,7 +1427,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,446",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 159,
         "GDP_Growth_2020": -1.639,
-        "GDP_Growth_%_Rank5": 53
+        "GDP_Growth_Rank5": 53
     },
     {
         "Country_Economy": "Moldova",
@@ -1440,7 +1440,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "12,811",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 98,
         "GDP_Growth_2020": -7.5,
-        "GDP_Growth_%_Rank5": 142
+        "GDP_Growth_Rank5": 142
     },
     {
         "Country_Economy": "Mongolia",
@@ -1453,7 +1453,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "11,825",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 105,
         "GDP_Growth_2020": -5.336,
-        "GDP_Growth_%_Rank5": 112
+        "GDP_Growth_Rank5": 112
     },
     {
         "Country_Economy": "Montenegro",
@@ -1466,7 +1466,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "19,252",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 70,
         "GDP_Growth_2020": -15.205,
-        "GDP_Growth_%_Rank5": 180
+        "GDP_Growth_Rank5": 180
     },
     {
         "Country_Economy": "Morocco",
@@ -1479,7 +1479,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "7,620",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 125,
         "GDP_Growth_2020": -7.021,
-        "GDP_Growth_%_Rank5": 140
+        "GDP_Growth_Rank5": 140
     },
     {
         "Country_Economy": "Mozambique",
@@ -1492,7 +1492,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "1,277",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 187,
         "GDP_Growth_2020": -0.5,
-        "GDP_Growth_%_Rank5": 37
+        "GDP_Growth_Rank5": 37
     },
     {
         "Country_Economy": "Myanmar",
@@ -1505,7 +1505,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,242",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 141,
         "GDP_Growth_2020": 3.189,
-        "GDP_Growth_%_Rank5": 7
+        "GDP_Growth_Rank5": 7
     },
     {
         "Country_Economy": "Namibia",
@@ -1518,7 +1518,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "9,397",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 118,
         "GDP_Growth_2020": -7.243,
-        "GDP_Growth_%_Rank5": 141
+        "GDP_Growth_Rank5": 141
     },
     {
         "Country_Economy": "Nauru",
@@ -1531,7 +1531,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "9,856",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 117,
         "GDP_Growth_2020": 0.706,
-        "GDP_Growth_%_Rank5": 24
+        "GDP_Growth_Rank5": 24
     },
     {
         "Country_Economy": "Nepal",
@@ -1544,7 +1544,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "4,061",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 152,
         "GDP_Growth_2020": -1.878,
-        "GDP_Growth_%_Rank5": 56
+        "GDP_Growth_Rank5": 56
     },
     {
         "Country_Economy": "Netherlands",
@@ -1557,7 +1557,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "57,534",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 13,
         "GDP_Growth_2020": -3.796,
-        "GDP_Growth_%_Rank5": 90
+        "GDP_Growth_Rank5": 90
     },
     {
         "Country_Economy": "New Zealand",
@@ -1570,7 +1570,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "42,018",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 31,
         "GDP_Growth_2020": -2.991,
-        "GDP_Growth_%_Rank5": 75
+        "GDP_Growth_Rank5": 75
     },
     {
         "Country_Economy": "Nicaragua",
@@ -1583,7 +1583,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,575",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 136,
         "GDP_Growth_2020": -3.0,
-        "GDP_Growth_%_Rank5": 76
+        "GDP_Growth_Rank5": 76
     },
     {
         "Country_Economy": "Niger",
@@ -1596,7 +1596,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "1,259",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 188,
         "GDP_Growth_2020": 1.2,
-        "GDP_Growth_%_Rank5": 18
+        "GDP_Growth_Rank5": 18
     },
     {
         "Country_Economy": "Nigeria",
@@ -1609,7 +1609,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,187",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 142,
         "GDP_Growth_2020": -1.794,
-        "GDP_Growth_%_Rank5": 55
+        "GDP_Growth_Rank5": 55
     },
     {
         "Country_Economy": "North Macedonia",
@@ -1622,7 +1622,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "16,712",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 79,
         "GDP_Growth_2020": -4.532,
-        "GDP_Growth_%_Rank5": 102
+        "GDP_Growth_Rank5": 102
     },
     {
         "Country_Economy": "Norway",
@@ -1635,7 +1635,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "65,800",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 6,
         "GDP_Growth_2020": -0.762,
-        "GDP_Growth_%_Rank5": 40
+        "GDP_Growth_Rank5": 40
     },
     {
         "Country_Economy": "Oman",
@@ -1648,7 +1648,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "30,178",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 50,
         "GDP_Growth_2020": -6.367,
-        "GDP_Growth_%_Rank5": 129
+        "GDP_Growth_Rank5": 129
     },
     {
         "Country_Economy": "Pakistan",
@@ -1661,7 +1661,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,150",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 144,
         "GDP_Growth_2020": -0.385,
-        "GDP_Growth_%_Rank5": 33
+        "GDP_Growth_Rank5": 33
     },
     {
         "Country_Economy": "Palau",
@@ -1674,7 +1674,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "14,309",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 89,
         "GDP_Growth_2020": -10.286,
-        "GDP_Growth_%_Rank5": 169
+        "GDP_Growth_Rank5": 169
     },
     {
         "Country_Economy": "Panama",
@@ -1687,7 +1687,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "27,003",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 56,
         "GDP_Growth_2020": -17.949,
-        "GDP_Growth_%_Rank5": 185
+        "GDP_Growth_Rank5": 185
     },
     {
         "Country_Economy": "Papua New Guinea",
@@ -1700,7 +1700,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,833",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 153,
         "GDP_Growth_2020": -3.879,
-        "GDP_Growth_%_Rank5": 92
+        "GDP_Growth_Rank5": 92
     },
     {
         "Country_Economy": "Paraguay",
@@ -1713,7 +1713,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "12,881",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 97,
         "GDP_Growth_2020": -0.9,
-        "GDP_Growth_%_Rank5": 44
+        "GDP_Growth_Rank5": 44
     },
     {
         "Country_Economy": "Peru",
@@ -1726,7 +1726,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "11,871",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 104,
         "GDP_Growth_2020": -11.115,
-        "GDP_Growth_%_Rank5": 174
+        "GDP_Growth_Rank5": 174
     },
     {
         "Country_Economy": "Philippines",
@@ -1739,7 +1739,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "8,452",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 120,
         "GDP_Growth_2020": -9.513,
-        "GDP_Growth_%_Rank5": 164
+        "GDP_Growth_Rank5": 164
     },
     {
         "Country_Economy": "Poland",
@@ -1752,7 +1752,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "34,103",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 41,
         "GDP_Growth_2020": -2.723,
-        "GDP_Growth_%_Rank5": 68
+        "GDP_Growth_Rank5": 68
     },
     {
         "Country_Economy": "Portugal",
@@ -1765,7 +1765,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "34,043",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 42,
         "GDP_Growth_2020": -7.587,
-        "GDP_Growth_%_Rank5": 146
+        "GDP_Growth_Rank5": 146
     },
     {
         "Country_Economy": "Puerto Rico",
@@ -1778,7 +1778,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "34,025",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 43,
         "GDP_Growth_2020": -7.5,
-        "GDP_Growth_%_Rank5": 144
+        "GDP_Growth_Rank5": 144
     },
     {
         "Country_Economy": "Qatar",
@@ -1791,7 +1791,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "93,508",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 4,
         "GDP_Growth_2020": -2.616,
-        "GDP_Growth_%_Rank5": 67
+        "GDP_Growth_Rank5": 67
     },
     {
         "Country_Economy": "Republic of Congo",
@@ -1804,7 +1804,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "4,188",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 150,
         "GDP_Growth_2020": -7.813,
-        "GDP_Growth_%_Rank5": 148
+        "GDP_Growth_Rank5": 148
     },
     {
         "Country_Economy": "Romania",
@@ -1817,7 +1817,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "30,526",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 48,
         "GDP_Growth_2020": -3.9,
-        "GDP_Growth_%_Rank5": 93
+        "GDP_Growth_Rank5": 93
     },
     {
         "Country_Economy": "Russia",
@@ -1830,7 +1830,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "27,903",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 53,
         "GDP_Growth_2020": -3.056,
-        "GDP_Growth_%_Rank5": 77
+        "GDP_Growth_Rank5": 77
     },
     {
         "Country_Economy": "Rwanda",
@@ -1843,7 +1843,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,337",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 176,
         "GDP_Growth_2020": -0.199,
-        "GDP_Growth_%_Rank5": 32
+        "GDP_Growth_Rank5": 32
     },
     {
         "Country_Economy": "Samoa",
@@ -1856,7 +1856,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,653",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 135,
         "GDP_Growth_2020": -3.154,
-        "GDP_Growth_%_Rank5": 78
+        "GDP_Growth_Rank5": 78
     },
     {
         "Country_Economy": "San Marino",
@@ -1869,7 +1869,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "58,427",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 12,
         "GDP_Growth_2020": -9.745,
-        "GDP_Growth_%_Rank5": 165
+        "GDP_Growth_Rank5": 165
     },
     {
         "Country_Economy": "Saudi Arabia",
@@ -1882,7 +1882,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "46,811",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 25,
         "GDP_Growth_2020": -4.147,
-        "GDP_Growth_%_Rank5": 96
+        "GDP_Growth_Rank5": 96
     },
     {
         "Country_Economy": "Senegal",
@@ -1895,7 +1895,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,478",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 158,
         "GDP_Growth_2020": 0.828,
-        "GDP_Growth_%_Rank5": 21
+        "GDP_Growth_Rank5": 21
     },
     {
         "Country_Economy": "Serbia",
@@ -1908,7 +1908,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "19,146",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 71,
         "GDP_Growth_2020": -0.98,
-        "GDP_Growth_%_Rank5": 47
+        "GDP_Growth_Rank5": 47
     },
     {
         "Country_Economy": "Seychelles",
@@ -1921,7 +1921,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "25,414",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 58,
         "GDP_Growth_2020": -13.359,
-        "GDP_Growth_%_Rank5": 175
+        "GDP_Growth_Rank5": 175
     },
     {
         "Country_Economy": "Sierra Leone",
@@ -1934,7 +1934,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "1,725",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 183,
         "GDP_Growth_2020": -2.249,
-        "GDP_Growth_%_Rank5": 62
+        "GDP_Growth_Rank5": 62
     },
     {
         "Country_Economy": "Singapore",
@@ -1947,7 +1947,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "97,057",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 2,
         "GDP_Growth_2020": -5.391,
-        "GDP_Growth_%_Rank5": 113
+        "GDP_Growth_Rank5": 113
     },
     {
         "Country_Economy": "Slovak Republic",
@@ -1960,7 +1960,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "32,710",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 46,
         "GDP_Growth_2020": -5.2,
-        "GDP_Growth_%_Rank5": 111
+        "GDP_Growth_Rank5": 111
     },
     {
         "Country_Economy": "Slovenia",
@@ -1973,7 +1973,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "38,807",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 38,
         "GDP_Growth_2020": -5.532,
-        "GDP_Growth_%_Rank5": 117
+        "GDP_Growth_Rank5": 117
     },
     {
         "Country_Economy": "Solomon Islands",
@@ -1986,7 +1986,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,455",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 172,
         "GDP_Growth_2020": -4.32,
-        "GDP_Growth_%_Rank5": 101
+        "GDP_Growth_Rank5": 101
     },
     {
         "Country_Economy": "Somalia",
@@ -1999,7 +1999,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "925",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 192,
         "GDP_Growth_2020": -1.5,
-        "GDP_Growth_%_Rank5": 51
+        "GDP_Growth_Rank5": 51
     },
     {
         "Country_Economy": "South Africa",
@@ -2012,7 +2012,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "12,032",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 103,
         "GDP_Growth_2020": -6.96,
-        "GDP_Growth_%_Rank5": 138
+        "GDP_Growth_Rank5": 138
     },
     {
         "Country_Economy": "South Sudan",
@@ -2025,7 +2025,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "791",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 193,
         "GDP_Growth_2020": -6.589,
-        "GDP_Growth_%_Rank5": 132
+        "GDP_Growth_Rank5": 132
     },
     {
         "Country_Economy": "Spain",
@@ -2038,7 +2038,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "38,392",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 39,
         "GDP_Growth_2020": -10.964,
-        "GDP_Growth_%_Rank5": 173
+        "GDP_Growth_Rank5": 173
     },
     {
         "Country_Economy": "Sri Lanka",
@@ -2051,7 +2051,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "13,215",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 94,
         "GDP_Growth_2020": -3.569,
-        "GDP_Growth_%_Rank5": 86
+        "GDP_Growth_Rank5": 86
     },
     {
         "Country_Economy": "St. Kitts and Nevis",
@@ -2064,7 +2064,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "20,987",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 63,
         "GDP_Growth_2020": -18.65,
-        "GDP_Growth_%_Rank5": 186
+        "GDP_Growth_Rank5": 186
     },
     {
         "Country_Economy": "St. Lucia",
@@ -2077,7 +2077,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "13,359",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 92,
         "GDP_Growth_2020": -18.85,
-        "GDP_Growth_%_Rank5": 187
+        "GDP_Growth_Rank5": 187
     },
     {
         "Country_Economy": "St. Vincent and the Grenadines",
@@ -2090,7 +2090,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "12,606",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 100,
         "GDP_Growth_2020": -4.18,
-        "GDP_Growth_%_Rank5": 97
+        "GDP_Growth_Rank5": 97
     },
     {
         "Country_Economy": "Sudan",
@@ -2103,7 +2103,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "4,098",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 151,
         "GDP_Growth_2020": -3.63,
-        "GDP_Growth_%_Rank5": 88
+        "GDP_Growth_Rank5": 88
     },
     {
         "Country_Economy": "Suriname",
@@ -2116,7 +2116,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "14,513",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 86,
         "GDP_Growth_2020": -13.455,
-        "GDP_Growth_%_Rank5": 176
+        "GDP_Growth_Rank5": 176
     },
     {
         "Country_Economy": "Sweden",
@@ -2129,7 +2129,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "54,146",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 18,
         "GDP_Growth_2020": -2.818,
-        "GDP_Growth_%_Rank5": 70
+        "GDP_Growth_Rank5": 70
     },
     {
         "Country_Economy": "Switzerland",
@@ -2142,7 +2142,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "72,874",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 5,
         "GDP_Growth_2020": -2.983,
-        "GDP_Growth_%_Rank5": 74
+        "GDP_Growth_Rank5": 74
     },
     {
         "Country_Economy": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
@@ -2155,7 +2155,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,829",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 154,
         "GDP_Growth_2020": -6.5,
-        "GDP_Growth_%_Rank5": 131
+        "GDP_Growth_Rank5": 131
     },
     {
         "Country_Economy": "Taiwan Province of China",
@@ -2168,7 +2168,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "55,724",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 16,
         "GDP_Growth_2020": 3.109,
-        "GDP_Growth_%_Rank5": 8
+        "GDP_Growth_Rank5": 8
     },
     {
         "Country_Economy": "Tajikistan",
@@ -2181,7 +2181,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,676",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 156,
         "GDP_Growth_2020": 4.5,
-        "GDP_Growth_%_Rank5": 4
+        "GDP_Growth_Rank5": 4
     },
     {
         "Country_Economy": "Tanzania",
@@ -2194,7 +2194,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,821",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 166,
         "GDP_Growth_2020": 1.029,
-        "GDP_Growth_%_Rank5": 19
+        "GDP_Growth_Rank5": 19
     },
     {
         "Country_Economy": "Thailand",
@@ -2207,7 +2207,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "18,236",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 75,
         "GDP_Growth_2020": -6.087,
-        "GDP_Growth_%_Rank5": 126
+        "GDP_Growth_Rank5": 126
     },
     {
         "Country_Economy": "The Bahamas",
@@ -2220,7 +2220,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "33,148",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 44,
         "GDP_Growth_2020": -16.281,
-        "GDP_Growth_%_Rank5": 182
+        "GDP_Growth_Rank5": 182
     },
     {
         "Country_Economy": "The Gambia",
@@ -2233,7 +2233,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,276",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 177,
         "GDP_Growth_2020": 0.0,
-        "GDP_Growth_%_Rank5": 28
+        "GDP_Growth_Rank5": 28
     },
     {
         "Country_Economy": "Timor-Leste",
@@ -2246,7 +2246,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,382",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 161,
         "GDP_Growth_2020": -6.8,
-        "GDP_Growth_%_Rank5": 136
+        "GDP_Growth_Rank5": 136
     },
     {
         "Country_Economy": "Togo",
@@ -2259,7 +2259,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,199",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 180,
         "GDP_Growth_2020": 0.7,
-        "GDP_Growth_%_Rank5": 25
+        "GDP_Growth_Rank5": 25
     },
     {
         "Country_Economy": "Tonga",
@@ -2272,7 +2272,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "6,191",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 130,
         "GDP_Growth_2020": -0.466,
-        "GDP_Growth_%_Rank5": 35
+        "GDP_Growth_Rank5": 35
     },
     {
         "Country_Economy": "Trinidad and Tobago",
@@ -2285,7 +2285,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "25,031",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 59,
         "GDP_Growth_2020": -7.832,
-        "GDP_Growth_%_Rank5": 149
+        "GDP_Growth_Rank5": 149
     },
     {
         "Country_Economy": "Tunisia",
@@ -2298,7 +2298,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "10,120",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 114,
         "GDP_Growth_2020": -8.8,
-        "GDP_Growth_%_Rank5": 160
+        "GDP_Growth_Rank5": 160
     },
     {
         "Country_Economy": "Turkey",
@@ -2311,7 +2311,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "30,253",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 49,
         "GDP_Growth_2020": 1.794,
-        "GDP_Growth_%_Rank5": 14
+        "GDP_Growth_Rank5": 14
     },
     {
         "Country_Economy": "Turkmenistan",
@@ -2324,7 +2324,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "16,521",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 80,
         "GDP_Growth_2020": 0.782,
-        "GDP_Growth_%_Rank5": 23
+        "GDP_Growth_Rank5": 23
     },
     {
         "Country_Economy": "Tuvalu",
@@ -2337,7 +2337,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "4,497",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 149,
         "GDP_Growth_2020": 0.53,
-        "GDP_Growth_%_Rank5": 27
+        "GDP_Growth_Rank5": 27
     },
     {
         "Country_Economy": "Uganda",
@@ -2350,7 +2350,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,574",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 171,
         "GDP_Growth_2020": -2.104,
-        "GDP_Growth_%_Rank5": 60
+        "GDP_Growth_Rank5": 60
     },
     {
         "Country_Economy": "Ukraine",
@@ -2363,7 +2363,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "13,110",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 95,
         "GDP_Growth_2020": -4.218,
-        "GDP_Growth_%_Rank5": 98
+        "GDP_Growth_Rank5": 98
     },
     {
         "Country_Economy": "United Arab Emirates",
@@ -2376,7 +2376,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "58,753",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 11,
         "GDP_Growth_2020": -5.924,
-        "GDP_Growth_%_Rank5": 123
+        "GDP_Growth_Rank5": 123
     },
     {
         "Country_Economy": "United Kingdom",
@@ -2389,7 +2389,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "44,117",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 28,
         "GDP_Growth_2020": -9.92,
-        "GDP_Growth_%_Rank5": 166
+        "GDP_Growth_Rank5": 166
     },
     {
         "Country_Economy": "United States",
@@ -2402,7 +2402,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "63,416",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 7,
         "GDP_Growth_2020": -3.505,
-        "GDP_Growth_%_Rank5": 84
+        "GDP_Growth_Rank5": 84
     },
     {
         "Country_Economy": "Uruguay",
@@ -2415,7 +2415,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "22,459",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 62,
         "GDP_Growth_2020": -5.7,
-        "GDP_Growth_%_Rank5": 120
+        "GDP_Growth_Rank5": 120
     },
     {
         "Country_Economy": "Uzbekistan",
@@ -2428,7 +2428,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "7,449",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 126,
         "GDP_Growth_2020": 1.648,
-        "GDP_Growth_%_Rank5": 15
+        "GDP_Growth_Rank5": 15
     },
     {
         "Country_Economy": "Vanuatu",
@@ -2441,7 +2441,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,586",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 170,
         "GDP_Growth_2020": -9.235,
-        "GDP_Growth_%_Rank5": 163
+        "GDP_Growth_Rank5": 163
     },
     {
         "Country_Economy": "Venezuela",
@@ -2454,7 +2454,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,178",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 143,
         "GDP_Growth_2020": -30.0,
-        "GDP_Growth_%_Rank5": 191
+        "GDP_Growth_Rank5": 191
     },
     {
         "Country_Economy": "Vietnam",
@@ -2467,7 +2467,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "10,869",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 112,
         "GDP_Growth_2020": 2.906,
-        "GDP_Growth_%_Rank5": 9
+        "GDP_Growth_Rank5": 9
     },
     {
         "Country_Economy": "West Bank and Gaza",
@@ -2480,7 +2480,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "5,388",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 138,
         "GDP_Growth_2020": -10.96,
-        "GDP_Growth_%_Rank5": 172
+        "GDP_Growth_Rank5": 172
     },
     {
         "Country_Economy": "Yemen",
@@ -2493,7 +2493,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "1,927",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 181,
         "GDP_Growth_2020": -5.0,
-        "GDP_Growth_%_Rank5": 108
+        "GDP_Growth_Rank5": 108
     },
     {
         "Country_Economy": "Zambia",
@@ -2506,7 +2506,7 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "3,342",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 162,
         "GDP_Growth_2020": -3.497,
-        "GDP_Growth_%_Rank5": 82
+        "GDP_Growth_Rank5": 82
     },
     {
         "Country_Economy": "Zimbabwe",
@@ -2519,6 +2519,6 @@
         "GDP_per_capita_2020_Dollars_Int_Dollars_PPP": "2,622",
         "GDP_per_capita_2020_Dollars_Int_Dollars_Rank4": 168,
         "GDP_Growth_2020": -8.002,
-        "GDP_Growth_%_Rank5": 153
+        "GDP_Growth_Rank5": 153
     }
 ]

@@ -16,7 +16,7 @@ export default function ListFact({GDP_per_capita_2020_Dollars_Int_Dollars_Nomina
                 <p>PIB par habitant en dollars (int. dollars) PPP : </p><p><b>{GDP_per_capita_2020_Dollars_Int_Dollars_PPP}</b></p>
                 <p>Rang du PIB par habitant en dollars (int. dollars) : </p><p><b>{GDP_per_capita_2020_Dollars_Int_Dollars_Rank4}</b></p>
                 <p>Croissance du PIB en 2020 : </p><p><b>{GDP_Growth_2020}</b></p>
-
+                <p>Rang de la croissance du PIB : </p><p><b>{GDP_Growth_Rank5}</b></p>
 
             </div>
             
