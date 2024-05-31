@@ -1,0 +1,46 @@
+version: '3.8'
+
+services:
+  app:
+    build: .
+    container_name: flask_jupyter
+    environment:
+      FLASK_APP: index.py
+      FLASK_ENV: development
+      DATABASE_URL: mysql+pymysql://360556_root:hackathonipssi*@mysql-db:3306/hackathonipssi_mia4
+    ports:
+      - "5001:5000"  # Utiliser un port différent
+      - "8892:8888"  # Utiliser un port différent
+    volumes:
+      - .:/app
+    depends_on:
+      - mysql
+
+  jupyter:
+    build: .
+    container_name: jupyter
+    environment:
+      JUPYTER_ENABLE_LAB: "yes"
+    ports:
+      - "8892:8888"  # Utiliser un port différent
+    volumes:
+      - .:/app
+    depends_on:
+      - mysql
+    command: jupyter notebook --ip=0.0.0.0 --port=8888 --no-browser --allow-root
+
+  mysql:
+    image: mysql:5.7
+    container_name: mysql-db
+    environment:
+      MYSQL_ROOT_PASSWORD: hackathonipssi*
+      MYSQL_DATABASE: hackathonipssi_mia4
+      MYSQL_USER: 360556_root
+      MYSQL_PASSWORD: hackathonipssi*
+    ports:
+      - "3308:3306"  # Utiliser un port différent
+    volumes:
+      - mysql-data:/var/lib/mysql
+
+volumes:
+  mysql-data:
