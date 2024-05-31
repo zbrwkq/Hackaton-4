@@ -1,8 +1,0 @@
-branch-defaults:
-  default:
-    environment: my-flask-app-env
-global:
-  application_name: my-flask-app
-  default_region: us-west-2  # Replace with your preferred AWS region
-  profile: default
-  sc: git

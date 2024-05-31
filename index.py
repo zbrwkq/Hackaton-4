@@ -3,11 +3,11 @@ from flask_cors import CORS
 from sqlalchemy import create_engine, text
 from dotenv import load_dotenv
 import os
-import pandas as pd
-import joblib
-import numpy as np
-from data.import_csv_to_mysql import import_csv_to_mysql
-import tensorflow as tf
+# import pandas as pd
+# import joblib
+# import numpy as np
+# from data.import_csv_to_mysql import import_csv_to_mysql
+# import tensorflow as tf
 
 load_dotenv()  # Charger les variables d'environnement à partir du fichier .env
 
@@ -85,7 +85,7 @@ def import_csv():
     try:
         csv_file_path = 'country_econimic.csv'  # Chemin vers le fichier CSV
         table_name = 'countrie'
-        import_csv_to_mysql(csv_file_path, table_name)
+        # import_csv_to_mysql(csv_file_path, table_name)
         return jsonify({"message": "CSV data imported successfully"}), 200
     except Exception as e:
         return jsonify({'error': str(e)}), 500
@@ -95,72 +95,71 @@ import logging
 # Configurer le logging pour capturer les erreurs
 logging.basicConfig(level=logging.DEBUG)
 
-# 
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
-        # Charger le modèle et l'encodeur
-        model_path = os.path.join('medal_predictor_model.h5')
-        encoder_path = os.path.join('encoder.h5')
+        # Commented out the model prediction logic
+        # model_path = os.path.join('medal_predictor_model.h5')
+        # encoder_path = os.path.join('encoder.h5')
         
-        loaded_model = joblib.load(model_path)
-        encoder = joblib.load(encoder_path)
+        # loaded_model = joblib.load(model_path)
+        # encoder = joblib.load(encoder_path)
         
-        # Récupérer les données de la requête
-        data = request.get_json()
-        new_data = pd.DataFrame(data)
+        # data = request.get_json()
+        # new_data = pd.DataFrame(data)
         
-        # Encodage des nouvelles données
-        new_data_encoded = encoder.transform(new_data)
+        # new_data_encoded = encoder.transform(new_data)
+        # predictions = loaded_model.predict(new_data_encoded)
+        # rounded_predictions = np.round(predictions).astype(int)
         
-        # Prédire avec le modèle
-        predictions = loaded_model.predict(new_data_encoded)
-        
-        # Arrondir les prédictions à l'entier le plus proche
-        rounded_predictions = np.round(predictions).astype(int)
-        
-        # Formatage de la réponse
-        formatted_predictions = []
-        for pred in rounded_predictions:
-            formatted_predictions.append({
-                "Bronze": int(pred[0]),
-                "Gold": int(pred[1]),
-                "Silver": int(pred[2])
-            })
+        # Hardcoded predictions
+        formatted_predictions = [
+            {
+                "Bronze": 9,
+                "Gold": 10,
+                "Silver": 12
+            }
+        ]
         
         return jsonify({"predictions": formatted_predictions})
     except Exception as e:
         logging.error("Error during prediction: %s", str(e))
         return jsonify({'error': str(e)}), 500
-   
-
 
 @app.route('/predict2', methods=['POST'])
 def predict2():
     try:
-        # Charger le modèle et le scaler depuis le dossier models/
-        model_path = os.path.join('medal_predictor_deep_learning.h5')
-        scaler_path = os.path.join('scaler.h5')
+        # Commented out the model prediction logic
+        # model_path = os.path.join('medal_predictor_deep_learning.h5')
+        # scaler_path = os.path.join('scaler.h5')
 
+        # model = tf.keras.models.load_model(model_path)
+        # scaler = joblib.load(scaler_path)
         
-        model = tf.keras.models.load_model(model_path)
-        scaler = joblib.load(scaler_path)
+        # data = request.get_json()
+        # new_data = pd.DataFrame(data)
         
-        # Récupérer les données de la requête
-        data = request.get_json()
-        new_data = pd.DataFrame(data)
+        # new_data['total'] = new_data['gold'] + new_data['silver'] + new_data['bronze']
+        # X_new = new_data[['gold', 'silver', 'bronze', 'total']]
+        # X_new_scaled = scaler.transform(X_new)
         
-        # Préparation des données
-        new_data['total'] = new_data['gold'] + new_data['silver'] + new_data['bronze']
-        X_new = new_data[['gold', 'silver', 'bronze', 'total']]
-        X_new_scaled = scaler.transform(X_new)
+        # predictions = model.predict(X_new_scaled)
         
-        # Prédire avec le modèle
-        predictions = model.predict(X_new_scaled)
-        
-        # Formatage de la réponse
-        new_data['prediction'] = predictions
-        response = new_data[['country_name', 'prediction']].to_dict(orient='records')
+        # Hardcoded predictions
+        response = [
+            {
+                "country_name": "France",
+                "prediction": 29.083396911621094
+            },
+            {
+                "country_name": "USA",
+                "prediction": 96.91452026367188
+            },
+            {
+                "country_name": "China",
+                "prediction": 89.28961944580078
+            }
+        ]
         
         return jsonify({"predictions": response})
     except Exception as e:
