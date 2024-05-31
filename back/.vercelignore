@@ -1,0 +1,15 @@
+
+env
+__pycache__
+*.pyc
+instance
+tests
+migrations
+*.log
+
+.git
+.gitignore
+.vscode
+.env
+*.md
+*.sh
