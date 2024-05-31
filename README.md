@@ -9,9 +9,9 @@
 * Nabila EL ABDALI
 * Saloua KERDEL
 
-## Éxecution des script:
-Se référer au Readme dans le dossier Front pour lancer l'application web en locale  
-Pour éxécuter les fichier notebook (.ipynb), veuillez utiliser Jupyter Notebook soit via un IDE ([guide d'installation](https://jupyter.org/install)), soit via [l'application web Jupyter Notebook](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb)
+## Éxecution des scripts:
+Se référer au Readme dans le dossier Front pour lancer l'application web en locale.  
+Pour éxécuter les fichier notebook (.ipynb), veuillez utiliser Jupyter Notebook soit via un IDE ([guide d'installation](https://jupyter.org/install)), soit via [l'application web Jupyter Notebook](https://jupyter.org/try-jupyter/notebooks/?path=notebooks/Intro.ipynb).
 
 Lien du Trello: <https://trello.com/b/ou44aDcD/hackathon>  
 
