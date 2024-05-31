@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react';
 import axios from 'axios';
 
-import TableDataCountryHistoricalMedals from '../../components/table/TableDataCountryHistoricalMedals';
+import TableDataMedal from '../../components/table/TableDataMedal';
 
 import '../../App.css';
 
@@ -16,7 +16,7 @@ export default function MedalPerson() {
       <div className="inner-container">
           <h1 style={{fontWeight:'bold'}}>Visualisation</h1>
           
-          <TableDataCountryHistoricalMedals />
+          <TableDataMedal/>
 
         </div>
       

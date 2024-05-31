@@ -2,6 +2,13 @@ import * as React from 'react';
 import GraphCountryHistoricalMedals from '../components/Graph/GraphCountryHistoricalMedals.jsx';
 import '../App.css';
 
+import Accordion from '@mui/material/Accordion';
+import AccordionActions from '@mui/material/AccordionActions';
+import AccordionSummary from '@mui/material/AccordionSummary';
+import AccordionDetails from '@mui/material/AccordionDetails';
+import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import Button from '@mui/material/Button';
+
 export default function Home() {
     const faqs = [
         {
@@ -21,13 +28,27 @@ export default function Home() {
     <div className="centered-container">
       <div className="inner-container">
         <h1 className="text-2xl font-bold">Frequently asked questions</h1>
-        <div style={{display:'flex', justifyContent:'center',flexDirection:'column',gap:70, width:'100%',alignItems:'center',marginTop:40}}>
-        {faqs.map((faq, index) => (
-            <div key={index} style={{display: 'flex', justifyContent:'space-between', flexDirection:'row', backgroundColor:'#D9D9D9', width:'75%',padding:100, borderRadius:10}}>
-                <h3>{faq.question}</h3>
-                <p>{faq.answer}</p>
-            </div>
-        ))}
+        <div style={{display:'flex',flexDirection:'column',alignItems:'center', width:'100%', gap:30, marginTop:40}}>
+            {
+                faqs.map((faq,index) =>{
+                    return(
+                        <Accordion style={{width:'40%'}}>
+
+                            <AccordionSummary
+                            expandIcon={<ExpandMoreIcon />}
+                            aria-controls="panel1-content"
+                            id="panel1-header"
+                            >
+                            <p style={{fontWeight:'bold'}}>{faq.question}</p>
+                            </AccordionSummary>
+                            <AccordionDetails>
+                            {faq.answer}
+                            </AccordionDetails>
+                    
+                        </Accordion>
+                    )
+                })
+            }
         </div>
         
       </div>
